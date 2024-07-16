@@ -1,0 +1,30 @@
+{
+  "name": "alurageek-api",
+  "version": "1.0.0",
+  "description": "Products for Alura Geek fake store api",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jailer22/alurageek-API.git"
+  },
+  "keywords": [
+    "alura",
+    "alurageek",
+    "json-server",
+    "javascript",
+    "API"
+  ],
+  "author": "Jailer22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jailer22/alurageek-API/issues"
+  },
+  "homepage": "https://github.com/Jailer22/alurageek-API#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.3"
+  }
+}
